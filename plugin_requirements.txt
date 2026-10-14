@@ -1,0 +1,9 @@
+# Simple plugin to test
+netbox-reorder-rack
+
+netbox-qrcode
+netbox-floorplan-plugin
+
+
+# Network discovery with Diode
+netboxlabs-diode-netbox-plugin
