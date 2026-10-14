@@ -1,12 +1,15 @@
-# Simple plugin to test
-netbox-reorder-rack
+# PyPI packages for NetBox plugins. 
+# This file is used by the `netbox-docker` project to install plugins into the NetBox container.
 
-# netbox-qrcode
-# netbox-floorplan-plugin
-
-
-# Network discovery with Diode
+# Netbox Labs plugins
+netboxlabs-netbox-custom-objects
+# netboxlabs-netbox-branching # Its a bit more complex, lets not install it for now
 netboxlabs-diode-netbox-plugin
 
 # DNS plugin
 netbox-plugin-dns
+
+# Other certified plugins
+netbox-reorder-rack
+netbox-qrcode
+netbox-floorplan-plugin
